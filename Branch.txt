@@ -1,0 +1,7 @@
+Se recomienda instalar con docker:
+instalar oracle 11g
+
+Utilizar sql developer
+
+-git cheatsheet (Comandos de git)
+
